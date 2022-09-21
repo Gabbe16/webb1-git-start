@@ -1,5 +1,11 @@
 body {
-    color: rgb(0, 0, 0);
-    background-color: #3f76a0;
-    font-family: 'Ms Madi', cursive;    
-}
+    max-width: 65ch;
+    margin: auto;
+    font-family: sans-serif;
+  }
+  header{
+    text-align: center;
+  }
+  h1{
+    font-family: serif;
+  }
